@@ -121,7 +121,7 @@ export const news = [
         id: "3",
         category: "news",
         title: "iMac",
-        url: "https://hotline.ua/img/tx/224/2243094455.jpg",
+        url: "https://i1.rozetka.ua/goods/12531254/95236396_images_12531254944.jpg",
         description: "Pretty. Freaking powerful.",
         price: 1099
     },
